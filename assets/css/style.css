@@ -134,7 +134,7 @@ a {
 /* Contact Page MainBlock */
 .MainBlockPortfolio{
 	background-color: white;
-	height: 800px;
+	height: 850px;
 	width: 960px;
 	left: 400px;
 	top: 150px;
@@ -164,10 +164,29 @@ a {
 .InnerMainBlockPortfolio {
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	border-top: 3px solid #dddddd;
-	padding-top: 5px;
+	padding-top: 35px;
 	margin: auto;
 	width: 95%;	
 	color: 	#777777;
+	float; left;
+}
+
+.InnerMainBlockPortfolio2 {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	padding-top: 35px;
+	margin: auto;
+	width: 95%;	
+	color: 	#777777;
+	float; left;
+}
+
+.InnerMainBlockPortfolio3 {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	padding-top: 35px;
+	margin: auto;
+	width: 95%;	
+	color: 	#777777;
+	float; left;
 }
 
 .InnerMainBlockContact {
@@ -235,6 +254,6 @@ footer {
 	background: #666666;
 	border-top: 8px solid #4aaaa5;
 	position: relative;
-	top: 875px;
+	top: 925px;
 	/* bottom: 0px; */
 }
